@@ -126,7 +126,7 @@ note: "Most of my recent work lives in private repos —
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ybgenc&bg_color=1a1b27&color=ffffff&line=6366F1&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ybgenc&hide_border=true&background=1A1B27&stroke=6366F1&ring=6366F1&fire=A78BFA&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&dateFormat=j%20M%5B%20Y%5D" alt="streak stats"/>
 </p>
 
 <!-- ====================== FOOTER ====================== -->
