@@ -26,7 +26,7 @@
 <br/>
 
 <!-- ====================== ABOUT ====================== -->
-<img align="right" width="38%" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="rocket" />
+<img align="right" width="38%" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="rocket" />
 
 ### &nbsp; 👨‍💻 &nbsp; About Me
 
@@ -118,12 +118,7 @@ note: "Most of my recent work lives in private repos —
 <br/>
 
 <!-- ====================== STATS ====================== -->
-<h2 align="center">📊 &nbsp; GitHub Stats</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ybgenc&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=6366F1&icon_color=6366F1" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybgenc&layout=compact&hide_border=true&count_private=true&langs_count=8&theme=tokyonight&title_color=6366F1" alt="top langs"/>
-</p>
+<h2 align="center">🔥 &nbsp; Contribution Streak</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ybgenc&hide_border=true&background=1A1B27&stroke=6366F1&ring=6366F1&fire=A78BFA&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&dateFormat=j%20M%5B%20Y%5D" alt="streak stats"/>
